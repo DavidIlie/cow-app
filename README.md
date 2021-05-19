@@ -17,7 +17,7 @@ produced the most milk. Also identify and display the identity code numbers of a
 less than 12 litres of milk for four days or more in the week.
 ```
 
-For the average programmer, this would be normally a simple task. However, if you take a look at the main app file (`app.py`) you would see that its not the case in this situtaion. As python is the programming language that we were told to use, I wanted to expand my knowledge and confidence with using this language. So I completely overexagerated the functionality of this application. The code is perfectly document inside so I hope you can get a rough understanding of it if you look throuh it.
+For the average programmer, this would be normally a simple task. However, if you take a look at the main app file (`app.py`) you would see that its not the case in this situtaion. As python is the programming language that we were told to use, I wanted to expand my knowledge and confidence with using this language. So I completely overexagerated the functionality of this application. The code is perfectly documented insidem so I hope you can get a rough understanding of it if you look throuh it.
 
 ![Gif of the base application running](https://s3.gifyu.com/images/normal-application.gif)
 
@@ -41,3 +41,7 @@ It's really simple, the one crucial part is that you need to have python 3.8.5 r
 ```console
 python3 app.py
 ```
+
+## Why?
+
+Well, why not?
